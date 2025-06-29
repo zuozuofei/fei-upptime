@@ -4,9 +4,9 @@
     "url": "https://www.vansatistone.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vansatistone.com.ico",
     "slug": "vansatistone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 932,
     "timeMonth": 899,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-29": 0
+    }
   },
   {
     "name": "fei",
