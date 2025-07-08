@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vansatistone.com.ico",
     "slug": "vansatistone",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
-    "time": 900,
-    "timeDay": 564,
-    "timeWeek": 762,
-    "timeMonth": 851,
-    "timeYear": 900,
+    "uptimeYear": "99.99%",
+    "time": 898,
+    "timeDay": 691,
+    "timeWeek": 729,
+    "timeMonth": 846,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2025-06-29": 23
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1115,
-    "timeDay": 872,
-    "timeWeek": 970,
-    "timeMonth": 1069,
-    "timeYear": 1115,
+    "time": 1112,
+    "timeDay": 741,
+    "timeWeek": 928,
+    "timeMonth": 1062,
+    "timeYear": 1112,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 517,
-    "timeDay": 309,
-    "timeWeek": 431,
-    "timeMonth": 505,
-    "timeYear": 517,
+    "time": 516,
+    "timeDay": 343,
+    "timeWeek": 378,
+    "timeMonth": 503,
+    "timeYear": 516,
     "dailyMinutesDown": {}
   }
 ]
