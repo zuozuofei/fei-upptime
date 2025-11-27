@@ -16,7 +16,7 @@
     "timeMonth": 168,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2025-11-27": 347,
+      "2025-11-27": 352,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -164,19 +164,19 @@
     "url": "https://www.fe-i.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.fe-i.com.ico",
     "slug": "fei",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1751,
-    "timeDay": 2251,
-    "timeWeek": 3634,
-    "timeMonth": 2727,
-    "timeYear": 1751,
+    "time": 1757,
+    "timeDay": 2735,
+    "timeWeek": 3582,
+    "timeMonth": 2743,
+    "timeYear": 1757,
     "dailyMinutesDown": {
-      "2025-11-27": 0
+      "2025-11-27": 5
     }
   },
   {
