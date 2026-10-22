@@ -6,15 +6,15 @@
     "slug": "vansatistone",
     "status": "down",
     "uptime": "39.81%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "88.13%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "32.87%",
-    "time": 1456,
-    "timeDay": 1613,
-    "timeWeek": 1399,
-    "timeMonth": 1546,
-    "timeYear": 1826,
+    "time": 1454,
+    "timeDay": 562,
+    "timeWeek": 1315,
+    "timeMonth": 1493,
+    "timeYear": 1822,
     "dailyMinutesDown": {
       "2026-05-16": 1053,
       "2026-05-15": 1440,
@@ -266,7 +266,7 @@
       "2026-07-22": 152,
       "2026-08-01": 255,
       "2026-08-05": 153,
-      "2026-10-22": 1
+      "2026-10-22": 171
     }
   },
   {
@@ -275,12 +275,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fe-i.com.ico",
     "slug": "fei",
     "status": "down",
-    "uptime": "64.11%",
+    "uptime": "64.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "43.26%",
-    "time": 2421,
+    "uptimeYear": "43.23%",
+    "time": 2096,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -341,7 +341,7 @@
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-17": 1371,
-      "2026-10-22": 27,
+      "2026-10-22": 197,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -507,14 +507,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.fe-i.com.ico",
     "slug": "feiblog",
     "status": "down",
-    "uptime": "90.59%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptime": "90.57%",
+    "uptimeDay": "88.16%",
+    "uptimeWeek": "98.31%",
     "uptimeMonth": "90.96%",
-    "uptimeYear": "85.13%",
-    "time": 902,
-    "timeDay": 1660,
-    "timeWeek": 1888,
+    "uptimeYear": "85.09%",
+    "time": 903,
+    "timeDay": 0,
+    "timeWeek": 2085,
     "timeMonth": 2296,
     "timeYear": 1096,
     "dailyMinutesDown": {
@@ -586,7 +586,7 @@
       "2026-09-21": 94,
       "2026-09-25": 282,
       "2026-09-24": 1440,
-      "2026-10-22": 0
+      "2026-10-22": 170
     }
   }
 ]
